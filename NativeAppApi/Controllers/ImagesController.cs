@@ -14,6 +14,7 @@ namespace NativeAppApi.Controllers
     {
         // GET: api/<ImagesController>
         [HttpGet]
+        [Route("GetImages")]
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
@@ -28,7 +29,8 @@ namespace NativeAppApi.Controllers
 
         // POST api/<ImagesController>
         [HttpPost]
-        public void Post([FromBody] string value)
+		[Route("PostImage")]
+		public void Post(string value)
         {
             ImageService imageService = new ImageService();
             imageService.AddImageToFolder(value);

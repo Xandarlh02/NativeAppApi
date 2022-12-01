@@ -9,7 +9,7 @@ namespace NativeAppApi.Services
         public void AddImageToFolder(string value)
         {
             byte[] imageBytes = Encoding.Unicode.GetBytes(value);
-            File.WriteAllBytes("C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\Images\\", imageBytes);
+            File.WriteAllBytes("Images/"+"somth.jpg", imageBytes);
             Console.WriteLine("The data has been written to the file.");
         }
 
