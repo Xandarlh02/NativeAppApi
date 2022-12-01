@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj": {}
+    "C:\\Users\\Alexandar\\Documents\\GitHub\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj": {
+    "C:\\Users\\Alexandar\\Documents\\GitHub\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj",
+        "projectUniqueName": "C:\\Users\\Alexandar\\Documents\\GitHub\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj",
         "projectName": "NativeAppApi",
-        "projectPath": "C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj",
-        "packagesPath": "C:\\Users\\Udviklingshæmmede\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Udviklingshæmmede\\Documents\\Git\\NativeAppApi\\NativeAppApi\\obj\\",
+        "projectPath": "C:\\Users\\Alexandar\\Documents\\GitHub\\NativeAppApi\\NativeAppApi\\NativeAppApi.csproj",
+        "packagesPath": "C:\\Users\\Alexandar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexandar\\Documents\\GitHub\\NativeAppApi\\NativeAppApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Udviklingshæmmede\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexandar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
